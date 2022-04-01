@@ -73,7 +73,7 @@
         "parse-bitbucket-url": "^0.3.0",
         "parse-github-url": "^1.0.2",
         "parse-link-header": "^1.0.1",
-        "passport": "~0.1.17",
+        "passport": "~0.5.2",
         "passport-http-bearer": "^1.0.1",
         "passport-jwt": "^4.0.0",
         "passport-local": "~0.1.6",
