@@ -84,7 +84,7 @@
         "request-promise": "^4.2.2",
         "sanitize-filename": "^1.6.3",
         "sequelize": "6.3.5",
-        "shelljs": "0.7.8",
+        "shelljs": "0.8.5",
         "shortid": "^2.2.8",
         "socket.io": "^2.3.0",
         "sqlite3": "5.0.0",
