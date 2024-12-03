@@ -25,7 +25,7 @@
         "@journeyapps/sqlcipher": "^5.0.0",
         "@octokit/rest": "~15.18.1",
         "async": "^3.2.0",
-        "axios": "0.21.1",
+        "axios": "1.7.8",
         "babel": "^6.23.0",
         "babel-cli": "^6.26.0",
         "badge-maker": "^3.3.0",
